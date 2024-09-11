@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Curso de React",
+        "duration": "80h",
+        "instructor": "Rangel Xavier"
+    },
+    {
+        "id": 2,
+        "name": "Curso de AWS",
+        "duration": "60h",
+        "instructor": "Rafael"
+    },
+    {
+        "id": 3,
+        "name": "Curso de UI",
+        "duration": "100h",
+        "instructor": "Allen Vidal"
+    }
+]
